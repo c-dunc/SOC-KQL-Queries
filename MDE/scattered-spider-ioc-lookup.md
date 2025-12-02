@@ -1,3 +1,3 @@
 # Scattered Spider IOC lookup
 
-Page synced from BookStack.
+<p id="bkmrk-some-iocs">Some IOCs</p>
