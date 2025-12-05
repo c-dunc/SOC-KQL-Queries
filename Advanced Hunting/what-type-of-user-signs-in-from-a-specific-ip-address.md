@@ -20,7 +20,7 @@
 </table>
 <h4 id="bkmrk-description">Description</h4>
 <p id="bkmrk-helps-to-build-knowl">Helps to build knowledge of IP utilisation within an organisation. Useful for confirming VPN IP addresses or understanding IP context</p>
-<h4 id="bkmrk-author-%3Coptional%3E">Author &lt;Optional&gt;</h4>
+<h4 id="bkmrk-author">Author</h4>
 <ul id="bkmrk-name%3A-callum-duncan-">
 <li><strong>Name:</strong> Callum Duncan</li>
 <li><strong>Github:</strong> c-dunc</li>
