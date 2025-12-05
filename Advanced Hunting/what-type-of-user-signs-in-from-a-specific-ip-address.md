@@ -1,6 +1,5 @@
 # What type of user signs in from a specific IP address?
 
-<h1 id="bkmrk-what-type-of-user-si"><em>What type of user signs in from a specific IP address?</em></h1>
 <h2 id="bkmrk-query-information">Query Information</h2>
 <h4 id="bkmrk-mitre-att%26ck-techniq">MITRE ATT&amp;CK Technique(s)</h4>
 <table id="bkmrk-technique-id-title-l">
